@@ -19,7 +19,7 @@ This project demonstrates a robust data pipeline utilizing **Python, SQL, Plotly
 1. Clone or navigate to the repository:
 ```bash
 cd risk-analytics-dashboard
-```
+``` 
 
 2. Install dependencies via pip:
 ```bash
